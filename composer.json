@@ -1,0 +1,12 @@
+{
+  "name": "creativestyle/testrail-api",
+  "description": "Package to deliver TestRail API from gurock/testrail-api",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Krzysztof Daniel",
+      "email": "krzysztof.daniel@creativestyle.pl"
+    }
+  ]
+}
